@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/cursos/game-developing/week_7/ProgrammingAssignment5/ProgrammingAssignment5/Content/images/explosion.png</File>
+    <File>C:/cursos/game-developing/week_7/ProgrammingAssignment5/ProgrammingAssignment5/Content/images/mine.png</File>
+    <File>C:/cursos/game-developing/week_7/ProgrammingAssignment5/ProgrammingAssignment5/Content/images/teddybear.png</File>
+  </SourceFiles>
+</SourceFileCollection>

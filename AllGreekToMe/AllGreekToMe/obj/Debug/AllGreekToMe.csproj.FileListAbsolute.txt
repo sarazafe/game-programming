@@ -1,0 +1,6 @@
+C:\Users\Alvaro\Desktop\AllGreekToMe\AllGreekToMe\bin\Debug\AllGreekToMe.exe.config
+C:\Users\Alvaro\Desktop\AllGreekToMe\AllGreekToMe\bin\Debug\AllGreekToMe.exe
+C:\Users\Alvaro\Desktop\AllGreekToMe\AllGreekToMe\bin\Debug\AllGreekToMe.pdb
+C:\Users\Alvaro\Desktop\AllGreekToMe\AllGreekToMe\obj\Debug\AllGreekToMe.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\AllGreekToMe\AllGreekToMe\obj\Debug\AllGreekToMe.exe
+C:\Users\Alvaro\Desktop\AllGreekToMe\AllGreekToMe\obj\Debug\AllGreekToMe.pdb

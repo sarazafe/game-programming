@@ -1,0 +1,117 @@
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\Content\graphics\character0.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\Content\graphics\character1.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\Content\graphics\character2.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\Content\graphics\character3.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\CollectionClasses.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\CollectionClasses.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\obj\x86\Debug\CollectionClasses.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\obj\x86\Debug\CollectionClasses.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\CollectionClasses\CollectionClasses\obj\x86\Debug\CollectionClasses.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\obj\x86\Debug\CollectionClasses.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\obj\x86\Debug\CollectionClasses.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character0.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character1.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character2.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character3.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\CollectionClasses.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\CollectionClasses.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Windows Start Code\CollectionClasses\obj\x86\Debug\CollectionClasses.csprojResolveAssemblyReference.cache
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\obj\x86\Debug\CollectionClasses.exe
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\obj\x86\Debug\CollectionClasses.pdb
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character0.xnb
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character1.xnb
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character2.xnb
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character3.xnb
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\CollectionClasses.exe
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\CollectionClasses.pdb
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\MonoGame.Framework.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.XInput.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\MonoGame.Framework.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.XInput.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\GDD 1200 Udemy\Section 9 Arrays and Collection Classes\2 Collection Classes\Supplemental Resources\Windows Final Code\CollectionClasses\obj\x86\Debug\CollectionClasses.csprojResolveAssemblyReference.cache
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\obj\x86\Debug\CollectionClasses.exe
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\obj\x86\Debug\CollectionClasses.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\CollectionClasses.exe.config
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character0.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character1.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character2.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\Content\graphics\character3.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\CollectionClasses.exe
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\CollectionClasses.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Coursera On Demand MOOC\Lectures\Module 9 Arrays and Collection Classes\9 2 Collection Classes\Lecture Materials\Windows Final Code\CollectionClasses\obj\x86\Debug\CollectionClasses.csprojResolveAssemblyReference.cache

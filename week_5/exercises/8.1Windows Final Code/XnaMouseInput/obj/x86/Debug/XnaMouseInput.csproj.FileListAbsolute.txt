@@ -1,0 +1,88 @@
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\Content\graphics\character0.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\Content\graphics\character1.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\Content\graphics\character2.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\Content\graphics\character3.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\XnaMouseInput.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\XnaMouseInput.pdb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.csprojResolveAssemblyReference.cache
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\XnaMouseInput\XnaMouseInput\obj\x86\Debug\XnaMouseInput.pdb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\obj\x86\Debug\XnaMouseInput.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\obj\x86\Debug\XnaMouseInput.pdb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\Content\graphics\character0.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\Content\graphics\character1.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\Content\graphics\character2.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\Content\graphics\character3.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\XnaMouseInput.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\XnaMouseInput.pdb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 8 MonoGame Mice and Controllers\1 MonoGame Mouse Location Processing\Windows Final Code\XnaMouseInput\obj\x86\Debug\XnaMouseInput.csprojResolveAssemblyReference.cache
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\obj\x86\Debug\XnaMouseInput.exe
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\obj\x86\Debug\XnaMouseInput.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\obj\x86\Debug\XnaMouseInput.csprojResolveAssemblyReference.cache
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\XnaMouseInput.exe.config
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\Content\graphics\character0.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\Content\graphics\character1.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\Content\graphics\character2.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\Content\graphics\character3.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\XnaMouseInput.exe
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\XnaMouseInput.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.xml
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 8 XNA Mice and Controllers\1 XNA Mouse Location Processing\Lecture Materials\Windows Final Code\XnaMouseInput\bin\Windows\Debug\SharpDX.Direct3D9.xml

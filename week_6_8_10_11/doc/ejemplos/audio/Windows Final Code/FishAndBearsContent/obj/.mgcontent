@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/audio/backgroundMusic.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/audio/buttonClick.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/audio/confetti.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/audio/pirate.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/audio/zombie.wav</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/graphics/fish.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/graphics/playbutton.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/graphics/quitbutton.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/graphics/teddybear0.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/graphics/teddybear1.png</File>
+    <File>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/graphics/teddybear2.png</File>
+  </SourceFiles>
+</SourceFileCollection>

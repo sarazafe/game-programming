@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/audio/zombie.wav</SourceFile>
+  <SourceTime>2011-07-27T07:19:11.9055948-06:00</SourceTime>
+  <DestFile>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 13 MonoGame Audio/FishAndBears/FishAndBearsContent/bin/audio/zombie.xnb</DestFile>
+  <DestTime>2015-12-31T07:59:47.6548872-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T11:14:44-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T11:14:44-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

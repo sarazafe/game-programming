@@ -1,0 +1,60 @@
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\Content\graphics\fish.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\Content\graphics\teddybear.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\FishGame.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\FishGame.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\obj\x86\Debug\FishGame.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\obj\x86\Debug\FishGame.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\FishGame\FishGame\obj\x86\Debug\FishGame.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\Windows Final Code\FishGame\obj\x86\Debug\FishGame.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 12 MonoGame Text IO\1 XNA Keyboard Input\Windows Final Code\FishGame\obj\x86\Debug\FishGame.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\obj\x86\Debug\FishGame.exe
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\obj\x86\Debug\FishGame.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\obj\x86\Debug\FishGame.csprojResolveAssemblyReference.cache
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\FishGame.exe.config
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\Content\graphics\fish.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\Content\graphics\teddybear.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\FishGame.exe
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\FishGame.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.xml
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 13 XNA Text IO\1 XNA Keyboard Input\Lecture Materials\Windows Final Code\FishGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\cursos\game-developing\week_6_8_10_11\doc\ejemplos\teclao\Windows Final Code\FishGame\bin\Windows\Debug\FishGame.exe.config
+C:\cursos\game-developing\week_6_8_10_11\doc\ejemplos\teclao\Windows Final Code\FishGame\obj\x86\Debug\FishGame.exe
+C:\cursos\game-developing\week_6_8_10_11\doc\ejemplos\teclao\Windows Final Code\FishGame\obj\x86\Debug\FishGame.pdb

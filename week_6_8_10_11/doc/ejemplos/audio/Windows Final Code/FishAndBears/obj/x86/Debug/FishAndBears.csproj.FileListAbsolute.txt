@@ -1,0 +1,112 @@
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\audio\backgroundMusic.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\audio\buttonClick.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\audio\confetti.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\audio\pirate.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\audio\zombie.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\graphics\fish.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\graphics\playbutton.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\graphics\quitbutton.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\graphics\teddybear0.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\graphics\teddybear1.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\Content\graphics\teddybear2.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\FishAndBears.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\FishAndBears.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\obj\x86\Debug\FishAndBears.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\obj\x86\Debug\FishAndBears.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\FishAndBears\FishAndBears\obj\x86\Debug\FishAndBears.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\obj\x86\Debug\FishAndBears.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\obj\x86\Debug\FishAndBears.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\backgroundMusic.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\buttonClick.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\confetti.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\pirate.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\zombie.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\fish.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\playbutton.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\quitbutton.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\teddybear0.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\teddybear1.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\teddybear2.xnb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\FishAndBears.exe
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\FishAndBears.pdb
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Courses\GDD 1200\Udemy\Section 13 MonoGame Audio\Windows Final Code\FishAndBears\obj\x86\Debug\FishAndBears.csprojResolveAssemblyReference.cache
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\obj\x86\Debug\FishAndBears.exe
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\obj\x86\Debug\FishAndBears.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\FishAndBears.exe.config
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\buttonClick.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\confetti.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\pirate.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\zombie.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\fish.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\playbutton.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\quitbutton.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\teddybear0.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\teddybear1.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\graphics\teddybear2.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\Content\audio\backgroundMusic.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\FishAndBears.exe
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\FishAndBears.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Coursera On Demand MOOC\Lectures\Module 12 XNA Audio\1 XNA Audio Without XACT\Lecture Materials\Windows Final Code\FishAndBears\obj\x86\Debug\FishAndBears.csprojResolveAssemblyReference.cache
+C:\cursos\game-developing\week_6_8_10_11\doc\ejemplos\audio\Windows Final Code\FishAndBears\bin\Windows\Debug\FishAndBears.exe.config
+C:\cursos\game-developing\week_6_8_10_11\doc\ejemplos\audio\Windows Final Code\FishAndBears\obj\x86\Debug\FishAndBears.exe
+C:\cursos\game-developing\week_6_8_10_11\doc\ejemplos\audio\Windows Final Code\FishAndBears\obj\x86\Debug\FishAndBears.pdb

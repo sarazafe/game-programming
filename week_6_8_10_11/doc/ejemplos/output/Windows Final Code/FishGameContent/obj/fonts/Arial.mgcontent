@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 12 MonoGame Text IO/2 XNA Text Output/Windows Final Code/FishGameContent/fonts/Arial.spritefont</SourceFile>
+  <SourceTime>2015-01-19T17:24:04-07:00</SourceTime>
+  <DestFile>C:/Users/Albert/Dropbox/Courses/GDD 1200/Udemy/Section 12 MonoGame Text IO/2 XNA Text Output/Windows Final Code/FishGameContent/bin/fonts/Arial.xnb</DestFile>
+  <DestTime>2015-12-31T07:48:06.864925-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T11:14:44-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T11:14:44-06:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
